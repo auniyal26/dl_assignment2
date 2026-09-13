@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+data/
+
+# Model checkpoints
+*.pt
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+*.pdf
+*.txt
