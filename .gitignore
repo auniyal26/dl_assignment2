@@ -18,4 +18,4 @@ data/
 Thumbs.db
 .vscode/
 *.pdf
-*.txt
+*.txt*.html
